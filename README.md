@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on:
+  * **DCC-Help** -> An integration and evaluation of Large Language Models into the [DCC Compiler](https://dl.acm.org/doi/10.1145/3545945.3569768)
+  * **IFA** -> Using language models to provide feedback on formative feedback (WIP) 
+  * **Formatif | Teaching and Learning** -> AngularJS -> Angualar migration of [Formatif Web](https://github.com/doubtfire-lms/doubtfire-web)
+
+🌱 I’m currently learning:
+  * Inter-Rater Reliability techniques (Cohen's Κ, Light's K, Krippendorff's α)
+
 <!--
 **jakerenzella/jakerenzella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
